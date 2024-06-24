@@ -20,7 +20,7 @@ export default function Home() {
         <ItemsCards
           image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAS8OkKQJYKtUCdhmGLwwSfM1XjuF9KVy7Vhz5HTyYZorIz-BTvnOFNnFAyNbn6SO06TY&usqp=CAU"
           name_fr="Haricots vert"
-          name_mg="Haricovera"
+          name_mg="Arikovera"
           price_fr={0.62}
           price_mg={3000}
         />
