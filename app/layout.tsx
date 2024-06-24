@@ -40,9 +40,14 @@ export default function RootLayout({
             <Tags tag="Legumes" url="/legumes" />
             <Tags tag="Fruits" url="/fruits" />
             <Tags tag="Epices" url="/epices" />
+<<<<<<< HEAD
             <Tags tag="Boucherie" url="/viande" />
             <Tags tag="Grains" url="/graines sèches" />
             <Tags tag="Charcuterie" url="/charcuterie" />
+=======
+            <Tags tag="Viandes" url="/viandes" />
+            <Tags tag="Céréale" url="/cereal" />
+>>>>>>> c6773872585ac80519159b3c9aaff1cc19111032
           </div>
           <div id="content" className="">
             {children}
