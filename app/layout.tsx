@@ -37,10 +37,12 @@ export default function RootLayout({
             </p>
           </div>
           <div className="flex gap-2">
-            <Tags tag="Legumes" url="/" />
-            <Tags tag="Fruits" url="/" />
-            <Tags tag="Epices" url="/" />
-            <Tags tag="Viandes" url="/" />
+            <Tags tag="Legumes" url="/legumes" />
+            <Tags tag="Fruits" url="/fruits" />
+            <Tags tag="Epices" url="/epices" />
+            <Tags tag="Boucherie" url="/boucheries" />
+            <Tags tag="Grains" url="/grains" />
+            <Tags tag="Charcuterie" url="/charcuterie" />
           </div>
           <div id="content" className="">
             {children}
