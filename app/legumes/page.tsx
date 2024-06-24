@@ -27,8 +27,8 @@ export default function Home() {
 
         <ItemsCards
           image="https://myjam.co.uk/cdn/shop/products/WhiteCourgette_Arabic_500g.jpg?v=1653566642"
-          name_fr="Haricots vert"
-          name_mg="Haricovera"
+          name_fr="Courgette"
+          name_mg="Korzety"
           price_fr={0.62}
           price_mg={3000}
         />
@@ -43,40 +43,56 @@ export default function Home() {
 
         <ItemsCards
           image="https://img.taste.com.au/y05Rzqpn/w1200-h630-cfill/taste/2007/03/carrots-181856-2.jpg"
-          name_fr="Citrouille"
-          name_mg="voatavo"
+          name_fr="Carotte"
+          name_mg="karoty"
           price_fr={0.62}
           price_mg={3000}
         />
 
         <ItemsCards
           image="https://www.heleneetlacledeschamps.fr/wp-content/uploads/2018/01/Le%CC%81gume-marche%CC%81-Madagascar.jpg"
-          name_fr="Citrouille"
-          name_mg="voatavo"
+          name_fr="Aubergines africaines"
+          name_mg="Angivy"
           price_fr={0.62}
           price_mg={3000}
         />
 
         <ItemsCards
           image="https://cdn.socleo.org/media/VS5DLJKT/P/choux-fleurs.jpg"
-          name_fr="Citrouille"
-          name_mg="voatavo"
+          name_fr="Chou-fleur"
+          name_mg="Soflera"
           price_fr={0.62}
           price_mg={3000}
         />
 
         <ItemsCards
           image="https://shop.mlouma.com/wp-content/uploads/2021/04/pomme-de-terre.jpg"
-          name_fr="Citrouille"
-          name_mg="voatavo"
+          name_fr="Pomme de terre"
+          name_mg="Ovy"
           price_fr={0.62}
           price_mg={3000}
         />
 
         <ItemsCards
-          image="https://www.jardinet.fr/wp-content/uploads/2023/03/Tout-savoir-sur-la-patate-douce-1.jpg"
-          name_fr="Citrouille"
-          name_mg="voatavo"
+          image="https://i.notretemps.com/1400x787/smart/2020/07/30/dietetique-les-bienfaits-de-laubergine.jpeg"
+          name_fr="Aubergine"
+          name_mg="Baranjely"
+          price_fr={0.62}
+          price_mg={3000}
+        />
+
+        <ItemsCards
+          image="https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_193,q_auto,dpr_2.0,w_325/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/9411/chou-blanc-tag-cabbage-2084225_1920.jpg"
+          name_fr="Choux"
+          name_mg="Laisoa"
+          price_fr={0.62}
+          price_mg={3000}
+        />
+
+        <ItemsCards
+          image="https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/9468/tag-oignons-rouges-pxhere.jpg"
+          name_fr="Onion"
+          name_mg="Tongolo"
           price_fr={0.62}
           price_mg={3000}
         />
