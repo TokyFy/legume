@@ -2,7 +2,7 @@ import * as Collapsible from "@radix-ui/react-collapsible";
 import Arrow from "@/components/Arrow";
 import React from "react";
 import Image from 'next/image'
-import { ArrowBottomLeftIcon, ArrowTopRightIcon } from "@radix-ui/react-icons";
+import { ArrowBottomLeftIcon, ArrowTopRightIcon, PlusIcon } from "@radix-ui/react-icons";
 import Link from "next/link";
 
 /**
@@ -11,7 +11,7 @@ import Link from "next/link";
  * */
 
 function Genre({ str }) {
-  return (<p className="text-[13px] border-2 p-0 px-2 border-mcqueen text-red-500 rounded-md">{str}</p>)
+  return (<p className="text-[13px] border p-0 px-2 border-mcqueen rounded-md">{str}</p>)
 }
 
 export const ArtistRowMobile = (props) => {
@@ -43,7 +43,7 @@ export const ArtistRowMobile = (props) => {
               </div>
               <Link className="flex items-center gap-2 border-b-2 w-max border-mcqueen" href="/">
                 <p>Youtube</p>
-                <ArrowTopRightIcon />
+                <PlusIcon />
               </Link>
             </div>
           </div>
@@ -55,7 +55,7 @@ export const ArtistRowMobile = (props) => {
 
 
 export const ArtistRow = (props) => {
-  const { name, label, genres, description, image, yt } = props;
+  const { name, label, genres, description, image, youtube } = props;
 
   return (
     <Collapsible.Root>
@@ -66,7 +66,7 @@ export const ArtistRow = (props) => {
           <div></div>
           <div className="pl-4 flex gap-2 flex-wrap">{genres.map(el => <Genre str={el} />)}</div>
           <div className="ml-auto transition-transform duration-300 group-data-[state='open']:rotate-90 place-self-center">
-            <Arrow />
+            <PlusIcon />
           </div>
         </Collapsible.Trigger>
         <Collapsible.Content className="overflow-hidden data-[state=open]:open data-[state=closed]:close">
@@ -83,7 +83,7 @@ export const ArtistRow = (props) => {
               <div>
                 <p>{description}</p>
               </div>
-              <Link className="flex items-center gap-2 border-b-2 w-max border-mcqueen" href="/">
+              <Link className="flex items-center gap-2 border p-2 w-max border-mcqueen" rel="noopener noreferrer" target="_blank" href={youtube}>
                 <p>Youtube</p>
                 <ArrowTopRightIcon />
               </Link>
