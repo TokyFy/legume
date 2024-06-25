@@ -15,7 +15,7 @@ function Genre({ str }) {
 }
 
 export const ArtistRowMobile = (props) => {
-  const { name, label, genres, description, image, yt } = props;
+  const { name, label, genres, description, image, youtube } = props;
 
   return (
     <Collapsible.Root>
