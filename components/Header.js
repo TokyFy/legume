@@ -20,7 +20,7 @@ export default function Header() {
         </p>
         {route === "/" ? (
           <Link href="/about" className="flex items-center mt-4 w-fit font-bold gap-2">
-            <p>About</p> <Arrow />
+            {/* <p>About</p> <Arrow /> */}
           </Link>
         ) : (
           <Link href="/" className="flex items-center mt-4 gap-x-1 w-fit">

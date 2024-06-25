@@ -83,7 +83,7 @@ export const ArtistRow = (props) => {
               <div>
                 <p>{description}</p>
               </div>
-              <Link className="flex items-center gap-2 border p-2 w-max border-mcqueen" rel="noopener noreferrer" target="_blank" href={youtube}>
+              <Link className="flex items-center gap-2 border p-2 w-max border-red-500 text-red-500" rel="noopener noreferrer" target="_blank" href={youtube}>
                 <p>Youtube</p>
                 <ArrowTopRightIcon />
               </Link>

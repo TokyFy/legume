@@ -98,6 +98,146 @@
       "label": "N/A",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Poopy.jpg/260px-Poopy.jpg",
       "youtube": "https://www.youtube.com/@poopy5143"
+    },
+    {
+      "name": "Kristel",
+      "description": "Kristel, c’est toujours une affaire de famille ! Emmenés par l’énergie, la puissante voix et la basse de leur frontwoman, ces presque trentenaires rugissants, tous originaires des quartiers défavorisés de la capitale Antananarivo aiment électrifier les foules. Ils racontent les injustices de la grande île rouge, la corruption, l’écart flagrant entre riches et pauvres, la précarité et l’exclusion de la jeunesse, leurs espoirs, leurs rêves et leurs amours.",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "label": "Libertalia",
+      "image": "https://i0.wp.com/daydream-music.fr/wp-content/uploads/2020/04/kristel-photo-de-presse.png?w=1200&ssl=1",
+      "youtube": "https://www.youtube.com/@Kristel_music/featured"
+    },
+    {
+      "name": "Loharano",
+      "description": "En 2015, les fougueux punk rockers Dizzy Brains avaient pour la première fois placé le rock de Madagascar sur la carte des Trans Musicales. Aussi jeune et énergique que ses compatriotes, le trio LohArano (“source”, en malgache) s’abreuve, lui, au heavy metal et aux rythmes typiques de l’île (tsapiky, salegy). En se rejoignant, ces courants forment un fleuve impétueux qui charrie sur un premier album enlevé (Lohamboto) les textes engagés de la chanteuse et guitariste Mahalia Ravoajanahary.",
+      "genres": [
+        "Grouve Metal",
+        "Rock"
+      ],
+      "label": "Libertalia",
+      "image": "https://histoires.lestrans.com/wp-content/uploads/2022/03/2021_Loharano_Mozpics-3-318x318.jpg",
+      "youtube": "https://www.youtube.com/@loharanoofficiel6031"
+    },
+    {
+      "name": "Fanja Andriamanantena",
+      "description": "En 1964, le Centre Albert Camus, inaugurant ses nouveaux locaux sur l’avenue de l’Indépendance, étend ses activités et s’intéresse au jazz dont les instrumentistes malgaches deviennent de plus en plus nombreux et performants. Il organise alors, en septembre de cette année, un concours du « Meilleur chanteur de Blues » auquel Fanja Andriamanantena, participe et en devient la lauréate. Elle commence alors sa carrière dans la musique.",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "label": "N/A",
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_mcON2TR-wP29RwjvDbjgz7vlepXG6wODiuxZB87iY29Y8=s176-c-k-c0x00ffffff-no-rj",
+      "youtube": "https://www.youtube.com/@fanjaandriamanantena"
+    },
+    {
+      "name": "Gaëlle Tsirininofy",
+      "description": "Chanteuse, pianiste et interprète, la talentueuse Gaëlle Tsirininofy s’est fait connaître sur la Toile grâce au cover du titre « Fly Me To the Moon » du légendaire Frank Sinatra. Coquette et gourmande, elle partage avec nous ses bons plans shopping et sorties dans la ville des Mille !",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "label": "N/A",
+      "image": "https://scontent.ftnr2-2.fna.fbcdn.net/v/t39.30808-6/373716887_831144968388186_9220959076093189728_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH4WkYcR7u-o_XbvG5Dvfp6wLKmjRskur3AsqaNGyS6vTYRm3vf3YoVTQ_zSA2N09ATxBP2akreFEi942mHzBNZ&_nc_ohc=_PcQINI17FEQ7kNvgGvkwsz&_nc_ht=scontent.ftnr2-2.fna&oh=00_AYB59XcjrbY8nKjaibG_lNQJ7vdoDisQ22u1SCmBsX63Uw&oe=6680648D",
+      "youtube": "https://www.youtube.com/@gaelletsirininofy9219"
+    },
+    {
+      "name": "The dizzy Brains",
+      "description": "The Dizzy Brains est un groupe de garage rock. Fondé à Antananarivo en 2011 . Il est composé des frères Andrianarisoa au chant et à la basse, Max Andriambelo (Poun) à la guitare et Alban Razanaka à la batterie.",
+      "genres": [
+        "Rock"
+      ],
+      "label": "X-RAY Musics",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyxB071RfFgEJJFl61R8EdV03kVhWodaSRZU5gq4-C9GHBUWLW",
+      "youtube": "https://www.youtube.com/@gaelletsirininofy9219"
+    },
+    {
+      "name": "Poopy",
+      "description": "Avec une voix douce et mélancolique, elle est connue dans la musique malgache pour ses ballades romantiques. Elle joue de la guitare acoustique et du piano",
+      "genres": [
+        "Slow"
+      ],
+      "label": "N/A",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Poopy.jpg/260px-Poopy.jpg",
+      "youtube": "https://www.youtube.com/@poopy5143"
+    },
+    {
+      "name": "Bodo",
+      "description": "Elle fait ses débuts dans la musique en 1986 en participant à un concours de chant radiophonique où elle atteint la troisième place. Elle effectue ensuite sa première prestation scénique en 1989, accompagnée par Solo et Hery du groupe Njila",
+      "genres": [
+        "Pop"
+    
+      ],
+      "label": "N/A",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BODO_Diva%27s.jpg/220px-BODO_Diva%27s.jpg",
+      "youtube": "https://www.youtube.com/watch?v=v2P8tHPmdq0"
+    },
+    {
+      "name": "Farakely",
+      "description": "Connue comme étant l’une des trois filles de Randrantelo, Farakely a marqué le public au sein de ce groupe et avec le duo qu’elle a monté avec son frère Laza. Sa voix, son timbre et son charme n’ont pas laissé le public de marbre, Farakely a démarré sa carrière plutôt calmement.",
+      "genres": [
+        "Pop",
+        "slow"
+      ],
+      "label": "N/A",
+      "image": "https://vaovao.org/sites/default/files/fara.jpg",
+      "youtube": "https://www.youtube.com/watch?v=zIHxTtXX2Hk"
+    },
+    {
+      "name": "Denise",
+      "description": "Elle a aimé chanter depuis son enfance, à 13 ans, elle commence les studios avec des amis, elle a intégré le groupe Meva Gospe",
+      "genres": [
+        "Afro pop"
+      ],
+      "label": "N/A",
+      "image": "https://www.studiosifaka.org/images/cache/k2/w720_h480/98cd27a9ec6668fd255be4380c71b8bd.jpg",
+      "youtube": "https://www.youtube.com/@DeniseOfficiel"
+    },
+    {
+      "name": "Niu Raza",
+      "description": "Publicly known by her stage name Niu Raza, the Malagasy singer, songwriter and performing artist, features a blend of African influences, telling diverse stories about the African continent and its people.",
+      "genres": [
+        "Afro pop",
+        "Slow"
+      ],
+      "label": "N/A",
+      "image": "https://tononkira.serasera.org/media/tononkira/o/niu.jpg",
+      "youtube": "https://www.youtube.com/@DeniseOfficiel"
+    },
+    {
+      "name": "Zay'",
+      "description": "Vers 1994, un groupe de jeunes et talentueux chanteurs conduit par Nary et Malala faisait entendre leur chef-d’œuvre sur les ondes et sur le petit écran. Déjà, le public était subjugué par la maturité de ces jeunes qui titillaient les grands à leur tout début (Poopy en 1995 à Antsahamanitra).",
+      "genres": [
+        "pop",
+        "blues",
+        "Slow"
+      ],
+      "label": "N/A",
+      "image": "https://midi-madagasikara.mg/wp-content/uploads/2019/04/zay.gif",
+      "youtube": "https://www.youtube.com/@DeniseOfficiel"
+    },
+    {
+      "name": "Hosea Marlyn'",
+      "description": "Vers 1994, un groupe de jeunes et talentueux chanteurs conduit par Nary et Malala faisait entendre leur chef-d’œuvre sur les ondes et sur le petit écran. Déjà, le public était subjugué par la maturité de ces jeunes qui titillaient les grands à leur tout début (Poopy en 1995 à Antsahamanitra).",
+      "genres": [
+        "Indie"
+      ],
+      "label": "N/A",
+      "image": "https://scontent.ftnr2-2.fna.fbcdn.net/v/t39.30808-1/357827845_777581721034190_1519441805862255157_n.jpg?stp=cp6_dst-jpg_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=f4b9fd&_nc_eui2=AeGTa78sIZP849GXG-NohUaRyShUpEbN8ZjJKFSkRs3xmJqOQeOghaTr6XEciPJc8NOtQ0cZkCHDq8J3CUIGmx3S&_nc_ohc=EiSFJEUYFjIQ7kNvgFE4TWZ&_nc_ht=scontent.ftnr2-2.fna&oh=00_AYDUNd_rgpJgwNiMGrjm2BtszgngNfWB26IRLZYm7u_Nwg&oe=66806E9D",
+      "youtube": "https://www.youtube.com/@hoseamarlyn"
+    },
+    {
+      "name": "Samoëla",
+      "description": "Samoëla Rasolofoniaina, better known as Samoëla, is a Malagasy vocalist and composer of contemporary folk fusion and roots music that draws upon musical traditions throughout the island of Madagascar. He typically sings and plays acoustic guitar, accompanied by an ensemble including bass guitar, Western and traditional percussion, and backup singers. ",
+      "genres": [
+        "acoustic",
+        "Western"
+      ],
+      "label": "N/A",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Samo%C3%ABla_en_2011.jpeg/220px-Samo%C3%ABla_en_2011.jpeg",
+      "youtube": "https://www.youtube.com/@samoelavevo9328"
     }
   ]
 }
