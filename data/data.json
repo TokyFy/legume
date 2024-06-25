@@ -8,7 +8,9 @@
         "World",
         "Afro"
       ],
-      "label": "Gasy"
+      "label": "Gasy",
+      "image": "https://www.za-malagasy.com/media/cache/resolve/image_main/uploads/50c8744be5_605b886216aca/225192fb5cc8e1c_618590fa4abfe.jpeg",
+      "youtube": "https://www.youtube.com/watch?v=kD2NmGsxSTQ"
     },
     {
       "name": "Babai Lugu",
@@ -18,7 +20,9 @@
         "Afro",
         "Folk"
       ],
-      "label": "Zany"
+      "label": "Zany",
+      "image": "https://i.ytimg.com/vi/H3LuodRpkL8/hqdefault.jpg",
+      "youtube": "https://www.youtube.com/@BabaiLugu"
     },
     {
       "name": "Jaojoby",
@@ -29,7 +33,36 @@
         "Dance",
         "Afro"
       ],
-      "label": "N/A"
+      "label": "N/A",
+      "image": "https://kabardock.com/wp-content/uploads/2022/07/site-jaojoby.jpg",
+      "youtube": "https://www.youtube.com/watch?v=ZnHjxkO-8pE"
+    },
+    {
+      "name": "Silo",
+      "description": "Silo Andrianandraina dit Silo Andrian ou Silo est un musicien multi-instrumentiste, compositeur, arrangeur et chef de formation malgache né en 1974 à Antananarivo (Madagascar).",
+      "genres": [
+        "Blues",
+        "Rock",
+        "Jazz",
+        "Ethno-jazz",
+        "World"
+      ],
+      "label": "N/A",
+      "image": "https://i1.sndcdn.com/artworks-000169393575-8a2jnq-t500x500.jpg",
+      "youtube": "https://www.youtube.com/@silofromada"
+    },
+    {
+      "name": "Mika sy Davis",
+      "description": "Mika Sy Davis est le duo qui a réussi à donner une forme contemporaine au genre de musique traditionnelle Basesa fusionné avec du rock, soul et reggae. Bemasy Davis Franklin et Mickaël Anatole Rakotozafy ont débuté leur carrière musicale en 2005. Ils ont été élu artiste de l’année lors de la RDJ’s Muzik Award en 2008. Depuis leur début, ils ont sortis trois albums en tous.",
+      "genres": [
+        "Basesa",
+        "Rock",
+        "Soul",
+        "Reggae"
+      ],
+      "label": "N/A",
+      "image": "https://www.musicinafrica.net/sites/default/files/images/artist_profile/201504/mikaanddavis01.jpg",
+      "youtube": "https://www.youtube.com/watch?v=iDdjby6paLI"
     }
   ]
 }

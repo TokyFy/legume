@@ -9,17 +9,18 @@ export default function Header() {
   const route = useRouter().route;
 
   return (
-    <header className="justify-between w-full px-4 pt-12 pb-16 mx-auto sm:flex max-w-screen-2xl">
+    <header className="justify-between w-full pt-12 pb-16 mx-auto sm:flex px-6">
       <div>
         <h1 className="text-5xl">
           <Link href="/">Very Good Artist</Link>
         </h1>
-        <p className="max-w-md mt-1">
-          A curated list of Malagasy Artist to listen when you are visiting our beutifaul contry...
+        <p className="my-4 max-w-2xl">
+          A curated list of Malagasy artists to listen to while visiting our beautiful country...<br />
+          Madagascar's vibrant music scene offers a rich tapestry of sounds that reflect our diverse cultural heritage and stunning landscapes. From traditional rhythms rooted in centuries-old traditions to modern interpretations blending local styles with global influences, these artists encapsulate the soul and spirit of Madagascar. Immerse yourself in the melodies of these talented musicians as you explore our unique island paradise.
         </p>
         {route === "/" ? (
-          <Link href="/about" className="flex items-center mt-4 gap-x-1 w-fit">
-            About <Arrow />
+          <Link href="/about" className="flex items-center mt-4 w-fit font-bold gap-2">
+            <p>About</p> <Arrow />
           </Link>
         ) : (
           <Link href="/" className="flex items-center mt-4 gap-x-1 w-fit">
@@ -28,6 +29,6 @@ export default function Header() {
           </Link>
         )}
       </div>
-      </header>
+    </header>
   );
 }

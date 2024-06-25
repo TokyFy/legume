@@ -1,7 +1,7 @@
 import * as Select from "@radix-ui/react-select";
 import { ChevronDownIcon, ChevronUpIcon } from "@radix-ui/react-icons";
 import { useRouter } from "next/router";
-import {useState} from "react";
+import { useState } from "react";
 import { useSearchParams } from 'next/navigation'
 
 

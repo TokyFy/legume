@@ -20,7 +20,7 @@ class Artists {
   }
 
   sort(by) {
-    this.#artists = _.sortBy(this.#artists,[by]);
+    this.#artists = _.sortBy(this.#artists, [by]);
   }
 }
 

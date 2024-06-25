@@ -4,6 +4,8 @@
  * @property {string} label - The record label associated with the artist.
  * @property {string[]} genres - The genre of music the artist performs.
  * @property {string} description - The artist description.
+ * @property {string} image - The artist description.
+ * @property {string} yt - The artist description.
  */
 
-export {};
+export { };

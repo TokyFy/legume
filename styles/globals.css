@@ -11,6 +11,19 @@ body {
    
 }
 
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+}
+
 html, body, #__next {
   height: 100%;
   @apply text-mcqueen;
@@ -60,7 +73,7 @@ li {
 @layer utilities {
   .grid-cols-yeah {
     grid-template-columns: 1.5fr 0.5fr 1fr 1fr 1fr 0.1fr;
-    @apply max-w-screen-2xl mx-auto;
+    @apply  mx-auto px-6;
   }
 
   .content, .overlay {
