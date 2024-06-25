@@ -63,6 +63,41 @@
       "label": "N/A",
       "image": "https://www.musicinafrica.net/sites/default/files/images/artist_profile/201504/mikaanddavis01.jpg",
       "youtube": "https://www.youtube.com/watch?v=iDdjby6paLI"
+    },
+    {
+      "name": "Rossy",
+      "description": "un chanteur et auteur-compositeur malgache, généralement considéré comme l'artiste malgache le plus populaire des années 1990. Débutant sa carrière musicale en tant qu'accordéoniste et chanteur au sein d'une troupe de musique hira gasy traditionnelle",
+      "genres": [
+        "Hira gasy",
+        "vakisôva",
+        "Tapolaka"
+      ],
+      "label": "Studio ProRossy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Paul_Bert_Rahasimanana_-_Rossy_-_Madagascar.jpg/220px-Paul_Bert_Rahasimanana_-_Rossy_-_Madagascar.jpg",
+      "youtube": "https://www.youtube.com/channel/UCsLqsmdZjZhdjHkdoeBrn2g"
+    },
+    {
+      "name": "Mahaleo",
+      "description": "Au début des années 1970, au moment de la vague de manifestations et de soulèvements étudiants qui ont abouti à la fin du pouvoir néo-colonial, les sept musiciens, Dama (Zafimahaleo Rasolofondraosolo), Dadah (Rakotobe Andrianabela), Bekoto (Honoré Rabekoto), Fafa (Famantanantsoa Rajaonarison), Nono (Rakotobe Andrianabelina), Charles et Raoul (Razafindranoa Raosolosolofo) se sont ainsi rencontrés à partir de mai 1972, au gré des actions lancées dans le cadre de la grève générale, l'animant de leurs chants et de leurs instruments. Leurs études les font devenir médecin, chirurgien, agriculteur ou sociologue, mais ils poursuivent ensemble leur aventure musicale",
+      "genres": [
+        "Folk",
+        "country",
+        "Hira gasy"
+      ],
+      "label": "Playa Sound",
+      "image": "https://img.youtube.com/vi/BmZyRlzMz0g/0.jpg",
+      "youtube": "https://www.youtube.com/watch?v=ut2W9UOGLlg"
+    },
+    {
+      "name": "Poopy",
+      "description": "Avec une voix douce et mélancolique, elle est connue dans la musique malgache pour ses ballades romantiques. Elle joue de la guitare acoustique et du piano",
+      "genres": [
+        "Slow",
+        "Hira gasy"
+      ],
+      "label": "N/A",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Poopy.jpg/260px-Poopy.jpg",
+      "youtube": "https://www.youtube.com/@poopy5143"
     }
   ]
 }
