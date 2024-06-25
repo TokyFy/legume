@@ -41,9 +41,9 @@ export const ArtistRowMobile = (props) => {
               <div>
                 <p>{description}</p>
               </div>
-              <Link className="flex items-center gap-2 border-b-2 w-max border-mcqueen" href="/">
+              <Link className="flex items-center gap-2 border p-2 w-max border-red-500 text-red-500" rel="noopener noreferrer" target="_blank" href={youtube}>
                 <p>Youtube</p>
-                <PlusIcon />
+                <ArrowTopRightIcon />
               </Link>
             </div>
           </div>
