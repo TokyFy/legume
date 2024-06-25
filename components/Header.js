@@ -15,9 +15,9 @@ export default function Header() {
           <Link href="/">Dago Artist</Link>
         </h1>
         <p className="my-4 max-w-2xl">
-          Une liste sélectionnée d'artistes malgaches à écouter lors de votre visite dans notre magnifique pays...<br />
+          Une liste sélectionnée d&apos;artistes malgaches à écouter lors de votre visite dans notre magnifique pays...<br />
 
-          La scène musicale dynamique de Madagascar offre une riche palette de sons qui reflètent notre patrimoine culturel diversifié et nos paysages époustouflants. Des rythmes traditionnels enracinés dans des traditions séculaires aux interprétations modernes mêlant styles locaux et influences mondiales, ces artistes capturent l'âme et l'esprit de Madagascar. Plongez-vous dans les mélodies de ces musiciens talentueux alors que vous explorez notre île paradisiaque unique.
+          La scène musicale dynamique de Madagascar offre une riche palette de sons qui reflètent notre patrimoine culturel diversifié et nos paysages époustouflants. Des rythmes traditionnels enracinés dans des traditions séculaires aux interprétations modernes mêlant styles locaux et influences mondiales, ces artistes capturent l&apos;âme et l&apos;esprit de Madagascar. Plongez-vous dans les mélodies de ces musiciens talentueux alors que vous explorez notre île paradisiaque unique.
         </p>
         {route === "/" ? (
           <Link href="/about" className="flex items-center mt-4 w-fit font-bold gap-2">
