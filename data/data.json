@@ -1,0 +1,35 @@
+{
+  "artists": [
+    {
+      "name": "Rakoto Frah",
+      "description": "Rakoto Frah, de son vrai nom Rakotozafy François, est un joueur de valiha malgache, né en 1923 à Ambohimanga Rova, un village situé à 20 km de Majunga. Il est décédé le 14 juillet 2001. Il est considéré comme le roi du valiha, un instrument traditionnel malgache.",
+      "genres": [
+        "Valiha",
+        "World",
+        "Afro"
+      ],
+      "label": "Gasy"
+    },
+    {
+      "name": "Babai Lugu",
+      "description": "Connu auparavant sous le nom de Alalá, cette formation rebaptisée Babai Lugu & Alala Katsa Katsa donne un nouveau souffle aux musiques de l’île rouge tiraillé entre l’affirmation volontaire d’un déracinement et un fort attachement à ses origines. La voix de Babai Lugu est à la fois douce et puissante et trouve sa place dans une polyphonie vocale qui se lie aux jeux complémentaires de deux guitares. Ce tissage harmonique repose sur une assise rythmique basse/batterie et de l’instrument typique du « Katsa » dont l’entrechoquement cadencé des graines constitue une identité forte dans l’univers afro-folk du groupe.",
+      "genres": [
+        "World",
+        "Afro",
+        "Folk"
+      ],
+      "label": "Zany"
+    },
+    {
+      "name": "Jaojoby",
+      "description": "Jaojoby est un chanteur malgache de salegy, un style musical originaire de la région de Majunga, dans le nord-ouest de Madagascar. Il est surnommé le roi du salegy. Il est né le 11 février 1955 à Ambohimanga Rova, un village situé à 20 km de Majunga. Il est le fils de Régis Gizavo, un joueur de valiha, un instrument traditionnel malgache.",
+      "genres": [
+        "Salegy",
+        "Tsapiky",
+        "Dance",
+        "Afro"
+      ],
+      "label": "N/A"
+    }
+  ]
+}
