@@ -16,7 +16,7 @@ export default function Header() {
         </h1>
         <p className="my-4 max-w-2xl">
           A curated list of Malagasy artists to listen to while visiting our beautiful country...<br />
-          Madagascar's vibrant music scene offers a rich tapestry of sounds that reflect our diverse cultural heritage and stunning landscapes. From traditional rhythms rooted in centuries-old traditions to modern interpretations blending local styles with global influences, these artists encapsulate the soul and spirit of Madagascar. Immerse yourself in the melodies of these talented musicians as you explore our unique island paradise.
+          Madagascar&apos;s vibrant music scene offers a rich tapestry of sounds that reflect our diverse cultural heritage and stunning landscapes. From traditional rhythms rooted in centuries-old traditions to modern interpretations blending local styles with global influences, these artists encapsulate the soul and spirit of Madagascar. Immerse yourself in the melodies of these talented musicians as you explore our unique island paradise.
         </p>
         {route === "/" ? (
           <Link href="/about" className="flex items-center mt-4 w-fit font-bold gap-2">

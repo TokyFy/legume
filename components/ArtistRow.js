@@ -22,7 +22,7 @@ export const ArtistRowMobile = (props) => {
       <li className="transition hover:bg-sally/10">
         <Collapsible.Trigger className="w-full grid text-left py-2.5 group px-4">
           <h3>{name}</h3>
-          <div className="flex gap-2 flex-wrap py-2">{genres.map(el => <Genre str={el} />)}</div>
+          <div className="flex gap-2 flex-wrap py-2">{genres.map((el, index) => <Genre key={index} str={el} />)}</div>
           <div className="ml-auto transition-transform duration-300 group-data-[state='open']:rotate-90 place-self-center">
             <Arrow />
           </div>
@@ -64,7 +64,7 @@ export const ArtistRow = (props) => {
           <h2>{name}</h2>
           <div>{label}</div>
           <div></div>
-          <div className="pl-4 flex gap-2 flex-wrap">{genres.map(el => <Genre str={el} />)}</div>
+          <div className="pl-4 flex gap-2 flex-wrap">{genres.map((el, index) => <Genre key={index} str={el} />)}</div>
           <div className="ml-auto transition-transform duration-300 group-data-[state='open']:rotate-90 place-self-center">
             <PlusIcon />
           </div>

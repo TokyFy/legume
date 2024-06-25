@@ -51,8 +51,8 @@ export default function Home({ artists }) {
         </div>
         <div className="grid isolate">
           <ul className="z-10 border-b divide-y border-mcqueen divide-mcqueen park overlay">
-            {artists.map((artist) => (
-              <ArtistRow key={artist.name} {...artist} />
+            {artists.map((artist, index) => (
+              <ArtistRow key={index} {...artist} />
             ))}
           </ul>
         </div>
