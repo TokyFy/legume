@@ -12,7 +12,7 @@ export default function Header() {
     <header className="justify-between w-full pt-12 pb-16 mx-auto sm:flex px-6">
       <div>
         <h1 className="text-5xl">
-          <Link href="/">Very Good Artist</Link>
+          <Link href="/">Dago Artist</Link>
         </h1>
         <p className="my-4 max-w-2xl">
           A curated list of Malagasy artists to listen to while visiting our beautiful country...<br />
